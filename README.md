@@ -40,8 +40,8 @@ This project is a fully functional e-commerce website developed using Django. It
 
 
 
-##Usage
-- **Admin Panel: Access the Django admin panel at http://localhost:8000/admin to manage users, products, and other site content.
-- **API Documentation: View FastAPI documentation for data handling and management.
+## Usage
+- **Admin Panel:** Access the Django admin panel at http://localhost:8000/admin to manage users, products, and other site content.
+- **API Documentation:** View FastAPI documentation for data handling and management.
 ##Contributing
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request with your changes.
