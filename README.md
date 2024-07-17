@@ -32,7 +32,7 @@ This project is a fully functional e-commerce website developed using Django. It
    Copy code
    python manage.py makemigrations
    python manage.py migrate
-5.Start the Django development server:
+5. Start the Django development server:
    ```bash
    Copy code
    python manage.py runserver
