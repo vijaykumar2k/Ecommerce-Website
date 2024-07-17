@@ -90,23 +90,28 @@ This project is a fully functional e-commerce website developed using Django. It
    virtualenv env
    .\env\Scripts\activate  # On Windows
    source env/bin/activate  # On macOS/Linux
-Install dependencies:
 
-bash
+ 3. Install dependencies:
+
+```bash
 Copy code
 pip install -r requirements/requirements.txt
-Set up the database:
+4. Set up the database:
 
-bash
+```bash
 Copy code
 python manage.py makemigrations
 python manage.py migrate
-Start the Django development server:
 
-bash
+
+5.Start the Django development server:
+
+```bash
 Copy code
 python manage.py runserver
-Access the application in your web browser at http://localhost:8000.
+6. Access the application in your web browser at http://localhost:8000.
+
+
 
 Usage
 Admin Panel: Access the Django admin panel at http://localhost:8000/admin to manage users, products, and other site content.
