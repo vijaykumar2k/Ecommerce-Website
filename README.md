@@ -15,5 +15,5 @@ This project is a fully functional e-commerce website developed using Django. It
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/vijaykumar2k/Ecommerce-Website.git
    cd your-repository
