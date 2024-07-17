@@ -23,7 +23,6 @@ This project is a fully functional e-commerce website developed using Django. It
    virtualenv env
    .\env\Scripts\activate  # On Windows
    source env/bin/activate  # On macOS/Linux
-
  3. Install dependencies
    ```bash
    Copy code
@@ -33,8 +32,6 @@ This project is a fully functional e-commerce website developed using Django. It
    Copy code
    python manage.py makemigrations
    python manage.py migrate
-
-
 5.Start the Django development server:
    ```bash
    Copy code
